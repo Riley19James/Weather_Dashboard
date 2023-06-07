@@ -1,5 +1,30 @@
 
 body {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
     font-family: 'Inter', sans-serif;
 }
 
+.container.px-4 {
+    scale: 152%;
+}
+
+.clearfix {
+    font-weight: bold;
+    background-color: #caf5f9;
+    color: #000000;
+    padding: 10px;
+    margin-bottom: 10px;
+    scale: 100%;
+}
+
+.col-md-6.float-md-end.mb-3.ms-md-3 {
+    background-color: #caf5f900;
+    color: #333;
+    padding: 10px;
+    margin-bottom: 20px;
+    scale: 60%;
+    margin-top: -190px;
+  }
+  
